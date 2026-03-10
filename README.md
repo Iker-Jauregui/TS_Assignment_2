@@ -1,2 +1,2 @@
-# TS_Assignment_1
-Assignment 1 of the Time Series subject
+# TS_Assignment_2
+Assignment 2 of the Time Series subject
