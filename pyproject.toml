@@ -28,4 +28,5 @@ dependencies = [
     "sktime>=0.38.5",
     "ipykernel>=6.31.0",
     "pmdarima>=2.0.4",
+    "lightgbm>=4.6.0",
 ]
